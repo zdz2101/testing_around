@@ -1,14 +1,14 @@
-# **THIS IS NOT THE REPO FOR THE {ggsurvfit} R PACKAGE.**
+# **THIS IS NOT THE REPO FOR THE {admiral} R PACKAGE.**
 
-### ggsurvfit repository
+### admiral repository
 
-https://github.com/pharmaverse/ggsurvfit
+https://github.com/pharmaverse/admiral
 
-### ggsurvfit website
+### admiral website
 
-https://www.danieldsjoberg.com/ggsurvfit/
+https://www.zeloszhu.com/admiral/
 
-This repository uses GH Actions to build and serve the {ggsurvfit} website. See below for links to the {ggsurvfit} package website and repository.
+This repository uses GH Actions to build and serve the {admiral} website. See below for links to the {admiral} package website and repository.
 
 
 
